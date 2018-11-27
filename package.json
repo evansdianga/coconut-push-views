@@ -4,10 +4,13 @@
   "description": "Library to push views when using Coconut",
   "main": "lib/push-views.js",
   "scripts": {
-    "build": "coffee -o lib -c src/push-views.coffee"
+    "build": "./build.sh"
+  },
+  "bin": {
+    "coconut-push-views": "./bin/index.js"
   },
   "author": "Coconut Team",
-  "license": "Ap",
+  "license": "Apache 2.0",
   "dependencies": {
     "coffeescript": "^2.3.2",
     "fs": "0.0.1-security",
