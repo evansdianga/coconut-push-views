@@ -1,6 +1,6 @@
 # Usage
 
-If you are running `npm npm@5.2.0` or later,the quickest way is to run `npx install coconut-push-views`
+If you are running `npm npm@5.2.0` or later,the quickest way is to run `npx coconut-push-views`in the directory containing your views
 
 This will **not** install the package to your global `node_modules` directory
 
