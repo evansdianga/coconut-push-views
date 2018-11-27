@@ -1,7 +1,5 @@
 ## Usage
 
-Install `npm i coconut-push-views`
+Install `npm i -g coconut-push-views`
 
-```javascript
-const pushViews = require('coconut-push-views');
-```
+In the directory containing your views, run `coconut-push-views`
