@@ -1,6 +1,6 @@
 {
   "name": "coconut-push-views",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Library to push views when using Coconut",
   "main": "lib/push-views.js",
   "scripts": {
